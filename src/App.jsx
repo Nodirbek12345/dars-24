@@ -4,7 +4,7 @@ import Home from "./pages/home/Home";
 import DetailUser from "./pages/detailUser/DetailUser";
 import DetailProduct from "./pages/detailProduct/DeatailProduct";
 import Header from "./components/header/Header";
-import Footer from "./components/Footer/Footer";
+import Footer from "./components/footer/Footer";
 import Users from "./pages/users/Users";
 
 const App = () => {
